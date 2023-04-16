@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package main;
 
-option go_package = "github.com/lemwill/goCNC";
+option go_package = "github.com/lemwill/goCNC-protocol";
 
 message Person {
   string name = 1;
